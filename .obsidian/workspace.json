@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Project/RealTime-Music/RealTime-MusicRecomSys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "RealTime-MusicRecomSys"
             }
           }
         ]
@@ -170,7 +170,8 @@
   },
   "active": "8ed6ee87e01d24bf",
   "lastOpenFiles": [
-    "Project/RealTime-Music/Real-Time Music Recommendation System.md",
+    "README.md",
+    "Project/RealTime-Music/RealTime-MusicRecomSys.md",
     "LightGCN/LightGCN-2.md",
     "Project/RealTime-Music",
     "Project",
