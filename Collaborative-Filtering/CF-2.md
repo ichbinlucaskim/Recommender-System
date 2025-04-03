@@ -11,13 +11,8 @@ This approach is fundamentally different from **content-based filtering**, which
 
 ### Pearson Correlation Coefficient
 
-$$\text{sim}(u, v) = 
-\frac{
-\sum\limits_{i \in I_{uv}} (R_{u,i} - \bar{R}_u)(R_{v,i} - \bar{R}_v)
-}{
-\sqrt{ \sum\limits_{i \in I_{uv}} (R_{u,i} - \bar{R}_u)^2 } \cdot 
-\sqrt{ \sum\limits_{i \in I_{uv}} (R_{v,i} - \bar{R}_v)^2 }
-}$$
+$$\text{sim}(u, v) = \frac{ \sum\limits_{i \in I_{uv}} (R_{u,i} - \bar{R}_u)(R_{v,i} - \bar{R}_v)}
+{\sqrt{ \sum\limits_{i \in I_{uv}} (R_{u,i} - \bar{R}_u)^2 } \cdot \sqrt{ \sum\limits_{i \in I_{uv}} (R_{v,i} - \bar{R}_v)^2 }}$$
 
 - $R_{u,i}$: user u’s rating for item i
 

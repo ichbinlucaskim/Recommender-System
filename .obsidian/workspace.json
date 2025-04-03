@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix-Factorization/MF-SecondPass.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MF-SecondPass"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix-Factorization/MF-SecondPass.md",
+                "file": "LightGCN/LightGCN-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MF-SecondPass"
+              "title": "Backlinks for LightGCN-3"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix-Factorization/MF-SecondPass.md",
+                "file": "LightGCN/LightGCN-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MF-SecondPass"
+              "title": "Outgoing links from LightGCN-3"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix-Factorization/MF-SecondPass.md",
+                "file": "LightGCN/LightGCN-3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MF-SecondPass"
+              "title": "Outline of LightGCN-3"
             }
           }
         ]
@@ -170,11 +170,28 @@
   },
   "active": "8ed6ee87e01d24bf",
   "lastOpenFiles": [
-    "Matrix-Factorization/MF-FirstPass.md",
-    "Collaborative-Filtering/CF-FirstPass.md",
-    "Collaborative-Filtering/CF-SecondPass.md",
-    "Matrix-Factorization/MF-ThirdPass.md",
-    "Matrix-Factorization/MF-SecondPass.md",
-    "Collaborative-Filtering/CF-ThirdPass.md"
+    "Project/Real-Time Music Recommendation/Real-Time Music Recommendation System.md",
+    "LightGCN/LightGCN-2.md",
+    "Project/Real-Time Music Recommendation",
+    "Project",
+    "LightGCN/LightGCN-1.md",
+    "Collaborative-Filtering/CF-2.md",
+    "BERT4Rec/BERT4Rec-2.md",
+    "BERT4Rec/BERT4Rec-1.md",
+    "CaseStudy/Spotify/s11042-017-5121-z.pdf",
+    "CaseStudy/Spotify/Logistic Matrix Factorization.pdf",
+    "CaseStudy/Spotify/3539597.3570402.pdf",
+    "CaseStudy/Spotify/s13688-024-00505-x.pdf",
+    "CaseStudy/YouTube/The Struggle over YouTube’s Recommendation Algorithm.pdf",
+    "CaseStudy/YouTube/On YouTube’s recommendation system.pdf",
+    "CaseStudy/YouTube/Deep Neural Networks for YouTube Recommendations.pdf",
+    "CaseStudy/Netflix/Recommender Systems in Industry- A Netflix Case study.pdf",
+    "Collaborative-Filtering/CF-3.md",
+    "Collaborative-Filtering/CF-1.md",
+    "Matrix-Factorization/MF-3.md",
+    "Matrix-Factorization/MF-2.md",
+    "Matrix-Factorization/MF-1.md",
+    "LightGCN/LightGCN-3.md",
+    "BERT4Rec/BERT4Rec-3.md"
   ]
 }
