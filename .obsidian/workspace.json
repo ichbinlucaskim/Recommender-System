@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/RealTime-Music/RealTime-MusicRecomSys.md",
+                "file": "Matrix-Factorization/MF-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RealTime-MusicRecomSys"
+              "title": "MF-3"
             }
           }
         ]
@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ed6ee87e01d24bf",
+  "active": "e258b2d3ac05a8df",
   "lastOpenFiles": [
+    "Project/Music-RecomSys/RealTime-Music RecomSys.md",
+    "Project/Music-RecomSys",
     "README.md",
-    "Project/RealTime-Music/RealTime-MusicRecomSys.md",
     "LightGCN/LightGCN-2.md",
     "Project/RealTime-Music",
     "Project",
@@ -186,7 +187,6 @@
     "CaseStudy/YouTube/The Struggle over YouTube’s Recommendation Algorithm.pdf",
     "CaseStudy/YouTube/On YouTube’s recommendation system.pdf",
     "CaseStudy/YouTube/Deep Neural Networks for YouTube Recommendations.pdf",
-    "CaseStudy/Netflix/Recommender Systems in Industry- A Netflix Case study.pdf",
     "Collaborative-Filtering/CF-3.md",
     "Collaborative-Filtering/CF-1.md",
     "Matrix-Factorization/MF-3.md",
